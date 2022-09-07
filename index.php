@@ -1,12 +1,9 @@
 <html>
  <head>
-  <title>Index</title>
+  <title>php</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! Declarative pipeline!!</p>'; ?>
-  <?php 
-     $var = 1;
-     echo $var++1
-      ?>
+ <?php echo '<p>Hello world from PHP! Declarative pipeline!!</p> ?>
+  
  </body>
 </html>
